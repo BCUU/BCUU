@@ -1,6 +1,6 @@
 <h3 align="center">VR Game Developer </h3>
 
-- 🔭 I’m currently working on [VR Sooting Simulation](https://github.com/BCUU/VR_simulation)
+
 
 - 🌱 I’m currently learning **VR Game Development**
 
