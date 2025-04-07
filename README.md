@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning **VR Game Development**
 
-- 📝 I regularly write articles on [https://medium.com/@ucarberatcan/list/vr-shooting-simulation-devlog-c3f9355a8cea](https://medium.com/@ucarberatcan/list/vr-shooting-simulation-devlog-c3f9355a8cea)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/beratcanuçar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beratcanuçar" height="30" width="40" /></a>
 <a href="https://medium.com/@ucarberatcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ucarberatcan" height="30" width="40" /></a>
